@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "bf9c5dc74465cd76",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8a35a517672e3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824c5c6cd4489d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/UsersAndGroups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UsersAndGroups"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cd460640a1515f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae888e12b7f6728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9436ffc026f7a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c2636abd2808e3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bebde98dc170eadd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5646409fc781da02",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3bc02371174919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb8e0ad825b1210",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Virtualization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Virtualization"
+            }
+          },
+          {
+            "id": "ca8ea6632bd700be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Virtualization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Virtualization"
+            }
+          },
+          {
+            "id": "23587700355a811c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b0ae3780856d89e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f1ac8b9de325b724",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Virtualization.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Virtualization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "824c5c6cd4489d57",
+  "lastOpenFiles": [
+    "Linux/TypesOfUsers.png",
+    "Linux/UsersAndGroups.md",
+    "Linux/TypesOfFiles.png",
+    "Linux/FilesAndDirectories.md",
+    "Linux/ImportantDirectories.png",
+    "Linux/Commands.md",
+    "Untitled",
+    "VMSetup/2-Vagrant.md",
+    "Linux",
+    "Untitled.md",
+    "VMSetup/VagrantArchitecture.png",
+    "VMSetup/1-Virtualization.md",
+    "VMSetup"
+  ]
+}
