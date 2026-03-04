@@ -4,3 +4,9 @@
 
 ![[TypesOfUsers.png]]
 
+## Commands
+
+- Show user information
+	- id {user-name}
+- List files opened by user
+	- lsof -u {user-name}

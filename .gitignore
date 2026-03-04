@@ -250,4 +250,7 @@ private_key
 ### Vagrant Patch ###
 *.box
 
+# Obsidian ###
+.obsidian/
+
 # End of https://www.toptal.com/developers/gitignore/api/terraform,vagrant,linux,python,git

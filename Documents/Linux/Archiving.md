@@ -1,0 +1,15 @@
+- Archiving
+	- `tar -czvf name.tar.gz path-to-archive`
+		- c - to create
+		- z - to compress
+		- v - verbose
+		- f - file
+		- tar.gz 
+		- tar - tarball
+		- gz - compressed with z option - gunzip
+	- `zip -r name.zip path-to-archive`
+		- r - recurse into directories
+- Unarchiving
+	- `tar -xzvf name.tar.gz`
+		- x - extract
+	- `unzip name.zip`
