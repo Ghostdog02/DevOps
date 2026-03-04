@@ -16,6 +16,6 @@
 	- To log in
 - vagrant halt
 	- To power off
-- vagrant destroy
+- vagrant destroy id
 
 ![[VagrantArchitecture.png]]
