@@ -253,4 +253,7 @@ private_key
 # Obsidian ###
 .obsidian/
 
+# JetBrains Rider
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/terraform,vagrant,linux,python,git
