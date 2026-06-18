@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/terraform,vagrant,linux,python,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=terraform,vagrant,linux,python,git
 
+#OpenSSH
+*.pem
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
@@ -257,3 +260,6 @@ private_key
 .idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform,vagrant,linux,python,git
+*.pem
+*_ed25519
+*_rsa
